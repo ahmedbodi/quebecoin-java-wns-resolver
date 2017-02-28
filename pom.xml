@@ -6,7 +6,7 @@
 
     <groupId>com.hashengineering</groupId>
     <artifactId>dash-wallet-name-resolver</artifactId>
-    <version>0.1.4-testnet</version>
+    <version>0.1.4-12.1</version>
     <packaging>jar</packaging>
 
     <name>Dash Wallet Name Resolver</name>
