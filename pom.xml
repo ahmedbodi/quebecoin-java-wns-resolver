@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.dashj</groupId>
             <artifactId>dashj-core</artifactId>
-            <version>0.14.3-testnet</version>
+            <version>0.14.4-12.1</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
