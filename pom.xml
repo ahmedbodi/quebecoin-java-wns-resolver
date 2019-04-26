@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.hashengineering</groupId>
-    <artifactId>dash-wallet-name-resolver</artifactId>
+    <groupId>com.multicoin</groupId>
+    <artifactId>qbc-wallet-name-resolver</artifactId>
     <version>0.1.4-12.1</version>
     <packaging>jar</packaging>
 
-    <name>Dash Wallet Name Resolver</name>
+    <name>Quebec Wallet Name Resolver</name>
     <description>Library used to resolve Netki Wallet Names and provide optional TLSA Validation for Address Service URLs</description>
     <url>https://netki.com</url>
 
@@ -108,9 +108,9 @@
             <version>1.1.1</version>
         </dependency>
         <dependency>
-            <groupId>org.dashj</groupId>
-            <artifactId>dashj-core</artifactId>
-            <version>0.14.4-12.1</version>
+            <groupId>com.multicoin</groupId>
+            <artifactId>quebecoinj-core</artifactId>
+            <version>0.14.4.3</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
